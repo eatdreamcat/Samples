@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4078000fc4599d9478587819e5fadd8d, type: 3}
+  m_Name: New SARenderPipelineAsset_GraphData
+  m_EditorClassIdentifier: 
+  m_CullingNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_RenderStateNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_MaterialNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_CameraNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_DrawRendererListNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_DrawProceduralNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_DrawSkyboxNodesMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_FlowNodesMap:
+    m_KeyData:
+    - 5aa84fb6-7f68-406d-8093-658878a6d450
+    m_ValueData:
+    - guid: 5aa84fb6-7f68-406d-8093-658878a6d450
+      name: Entry
+      type: 1000
+      dataID: 5aa84fb6-7f68-406d-8093-658878a6d450
+      dataType: 2000
+      flowIn: []
+      flowOut: []
+  m_BufferNodeMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_TextureBufferNodeMap:
+    m_KeyData: []
+    m_ValueData: []
+  m_EntryNode:
+    guid: 5aa84fb6-7f68-406d-8093-658878a6d450
+    name: Entry
+    type: 2000
+    startPoint: 
+  GraphGuid: 571d5556-23b6-4df4-bb5a-836b368d86d9

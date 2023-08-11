@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d073e6c768651e4f9f42cba52893628, type: 3}
+  m_Name: SAGraphViewSavedData
+  m_EditorClassIdentifier: 
+  m_ViewTransformDatas:
+    m_KeyData:
+    - 571d5556-23b6-4df4-bb5a-836b368d86d9
+    m_ValueData:
+    - position: {x: 0, y: 0, z: 0}
+      scale: {x: 1, y: 1, z: 1}
+  m_Datas:
+    m_KeyData:
+    - 571d5556-23b6-4df4-bb5a-836b368d86d9
+    m_ValueData:
+    - m_NodeMap:
+        m_KeyData:
+        - 5aa84fb6-7f68-406d-8093-658878a6d450
+        m_ValueData:
+        - name: Entry
+          position: {x: 100, y: 200}
+          color: {r: 0, g: 0.3019608, b: 0.047058824, a: 1}
+          groupGuid: 
+      m_GroupMap:
+        m_KeyData: []
+        m_ValueData: []
+      m_UniqueNameDictionary:
+        m_KeyData: []
+        m_ValueData: []
+  m_GlobalUniqueNameDictionary:
+    m_KeyData: []
+    m_ValueData: []
